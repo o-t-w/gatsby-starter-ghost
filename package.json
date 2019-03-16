@@ -33,6 +33,7 @@
     "eslint-plugin-react": "7.12.4"
   },
   "dependencies": {
+    "@ionic/react": "0.0.5",
     "@tryghost/helpers": "1.0.1",
     "@tryghost/helpers-gatsby": "1.0.1",
     "cheerio": "^1.0.0-rc.2",
@@ -52,6 +53,7 @@
     "lodash": "4.17.11",
     "react": "16.8.4",
     "react-dom": "16.8.4",
-    "react-helmet": "5.2.0"
+    "react-helmet": "5.2.0",
+    "react-router": "^4.4.0"
   }
 }
